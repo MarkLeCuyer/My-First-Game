@@ -4,6 +4,7 @@
   "name": "Basic Movment",
   "resources": [
     {"id":{"name":"spr_wall","path":"sprites/spr_wall/spr_wall.yy",},"order":1,},
+    {"id":{"name":"Object2","path":"objects/Object2/Object2.yy",},"order":1,},
     {"id":{"name":"spr_happygreenman","path":"sprites/spr_happygreenman/spr_happygreenman.yy",},"order":0,},
     {"id":{"name":"obj_happygreenman","path":"objects/obj_happygreenman/obj_happygreenman.yy",},"order":0,},
     {"id":{"name":"Sprite1","path":"sprites/Sprite1/Sprite1.yy",},"order":15,},
@@ -17,7 +18,7 @@
     {"name":"Windows","path":"options/windows/options_windows.yy",},
     {"name":"operagx","path":"options/operagx/options_operagx.yy",},
   ],
-  "defaultScriptType": 0,
+  "defaultScriptType": 2,
   "isEcma": false,
   "configs": {
     "name": "Default",

@@ -4,7 +4,8 @@
   "name": "Basic Movment",
   "resources": [
     {"id":{"name":"spr_wall","path":"sprites/spr_wall/spr_wall.yy",},"order":1,},
-    {"id":{"name":"Object2","path":"objects/Object2/Object2.yy",},"order":1,},
+    {"id":{"name":"onj_wall","path":"objects/onj_wall/onj_wall.yy",},"order":1,},
+    {"id":{"name":"Spr_floorpattern","path":"sprites/Spr_floorpattern/Spr_floorpattern.yy",},"order":2,},
     {"id":{"name":"spr_happygreenman","path":"sprites/spr_happygreenman/spr_happygreenman.yy",},"order":0,},
     {"id":{"name":"obj_happygreenman","path":"objects/obj_happygreenman/obj_happygreenman.yy",},"order":0,},
     {"id":{"name":"Sprite1","path":"sprites/Sprite1/Sprite1.yy",},"order":15,},

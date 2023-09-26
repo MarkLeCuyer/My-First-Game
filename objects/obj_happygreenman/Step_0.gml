@@ -23,6 +23,6 @@ if(iswalking == 1)
 	/// @DnDVersion : 1
 	/// @DnDHash : 7CFA8C84
 	/// @DnDParent : 2989A7B8
-	/// @DnDArgument : "speed" "8"
-	image_speed = 8;
+	/// @DnDArgument : "speed" "5"
+	image_speed = 5;
 }
